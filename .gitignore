@@ -1,7 +1,7 @@
 node_modules/
 .idea/
-platforms/
 www/
+platforms/
 data/db.json
 package-lock.json
 !www/font-awesome.ttf
