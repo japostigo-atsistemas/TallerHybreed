@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+platforms/
+www/
+data/db.json
+package-lock.json
+!www/font-awesome.ttf
+!.gitkeep
